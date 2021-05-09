@@ -1,0 +1,44 @@
+.sectionAboutMe {
+    margin: auto;
+    max-width: 1000px;
+    border-width: 7px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-color: #8C8C8C;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.sectionAboutMe__header {
+    text-indent: 0px;
+    font-size: 30px;
+    color: #9cb0cb;
+}
+
+.sectionAboutMe__paragraph {
+    margin: 0px;
+    line-height: 1.5;
+}
+
+.sectionAboutMe__link {
+    color: #8D8D8D;
+}
+
+.sectionAboutMe__link:visited {
+    color: white;
+}
+
+.sectionAboutMe__link:hover {
+    color: crimson;
+}
+
+.sectionAboutMe__link:active {
+    color: #9f0423ad;
+}
+
+.sectionAboutMe__imageYouCode {
+    height: 16px;
+}

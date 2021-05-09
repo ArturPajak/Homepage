@@ -1,0 +1,40 @@
+.sectionHobby {
+    margin: auto;
+    max-width: 1000px;
+    border-width: 7px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-color: #8C8C8C;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.sectionHobby__header {
+    text-indent: 0px;
+    font-size: 30px;
+    color: #9cb0cb;
+}
+
+.sectionHobby__paragraph {
+    margin: 0px;
+    line-height: 1.5;
+}
+
+.sectionHobby__link {
+    color: #8D8D8D;
+}
+
+.sectionHobby__link:visited {
+    color: white;
+}
+
+.sectionHobby__link:hover {
+    color: crimson;
+}
+
+.sectionHobby__link:active {
+    color: #9f0423ad;
+}

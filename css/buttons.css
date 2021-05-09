@@ -1,0 +1,28 @@
+.button {
+    display: block;
+    padding: 15px 15px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 5px;
+    border-style: groove;
+    background-color: #8D8D8D;
+}
+
+.button--none {
+    display: none;
+}
+
+.button--whiteBackground {
+    background-color: #ffffff;
+}
+
+.button--whiteBody {
+    background-color: #dddcdc;
+    margin: auto;
+    color: black;
+    font-size: 20px;
+    max-width: 1200px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,52 @@
+.sectionTable {
+    overflow-x: auto;
+}
+
+.sectionTable__wholeTable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.sectionTable__tableCaption {
+    font-weight: bold;
+}
+
+.sectionTable__tableRow:nth-child(even) {
+    background-color: #707070;
+}
+
+.sectionTable__tableRow:nth-child(odd) {
+    background-color: #929292;
+}
+
+.sectionTable__tableRow:hover {
+    background-color: #494949;
+}
+
+.sectionTable__tableCell {
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    vertical-align: middle;
+}
+
+.sectionTable__tableCell--header {
+    background-color: #494949;
+}
+
+.sectionTable__link {
+    color: #8D8D8D;
+}
+
+.sectionTable__link:visited {
+    color: white;
+}
+
+.sectionTable__link:hover {
+    color: crimson;
+}
+
+.sectionTable__link:active {
+    color: #9f0423ad;
+}

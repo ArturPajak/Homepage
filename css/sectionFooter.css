@@ -1,0 +1,11 @@
+.sectionFooter {
+    margin: auto;
+    max-width: 1000px;
+    border-width: 7px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-color: #8D8D8D;
+    text-indent: 30px;
+}

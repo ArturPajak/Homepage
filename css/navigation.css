@@ -1,0 +1,27 @@
+.navigation__list {
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.navigation__link {
+    display: block;
+    color: black;
+    max-width: 150px;
+    padding: 15px 30px;
+    text-decoration: none;
+    background-color: #8C8C8C;
+}
+
+.navigation_link:visited {
+    background-color: #8c8c8c;
+}
+
+.navigation__link:hover {
+    background-color: #9cb0cb;
+}
+
+.navigation__link:active {
+    background-color: #335584;
+}

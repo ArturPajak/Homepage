@@ -1,0 +1,52 @@
+.sectionFrontEnd {
+    margin: auto;
+    max-width: 1000px;
+    border-width: 7px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-color: #8C8C8C;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.sectionFrontEnd__header {
+    text-indent: 0px;
+    font-size: 30px;
+    color: #9cb0cb;
+}
+
+.sectionFrontEnd__paragraph {
+    margin: 0px;
+    line-height: 1.5;
+}
+
+.sectionFrontEnd__specialOne {
+    color: hsl(247, 7%, 34%);
+}
+
+.sectionFrontEnd__specialTwo {
+    color: #e08e16;
+}
+
+.sectionFrontEnd__link {
+    color: #8D8D8D;
+}
+
+.sectionFrontEnd__link--decorated {
+    text-underline-offset: 2px;
+}
+
+.sectionFrontEnd__link:visited {
+    color: white;
+}
+
+.sectionFrontEnd__link:hover {
+    color: crimson;
+}
+
+.sectionFrontEnd__link:active {
+    color: #9f0423ad;
+}

@@ -1,0 +1,13 @@
+.mainHeader {
+    color: #9cb0cb;
+    margin-bottom: 20px;
+}
+
+.mainHeaderWhite {
+    color: #3d4bab;
+    margin-bottom: 20px;
+}
+
+.mainHeader__myImage {
+    box-shadow: 1px 1px 8px 1px #ffffff;
+}

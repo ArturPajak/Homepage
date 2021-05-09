@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    background-color: #191919;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+    max-width: 1200px;
+    text-align: center;
+    background-color: #212121;
+    font-family: 'Lato', sans-serif;
+}
