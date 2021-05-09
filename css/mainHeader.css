@@ -9,5 +9,7 @@
 }
 
 .mainHeader__myImage {
+    width: 320px;
+    height: 400px;
     box-shadow: 1px 1px 8px 1px #ffffff;
 }
