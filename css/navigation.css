@@ -1,18 +1,23 @@
 .navigation {
-    margin-bottom: 40px;
-    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .navigation__list {
     display: flex;
     padding: 0px;
-    justify-content: center;
+    height: 60px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
     list-style-type: none;
 }
 
 .navigation__link {
+    display: block;
     color: black;
-    flex-direction: column;
+    flex-basis: 33%;
     padding: 15px 30px;
     text-decoration: none;
     background-color: #8C8C8C;
