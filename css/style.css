@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
     box-sizing: border-box;
     background-color: #191919;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 45% 50%;
 }
 
 *, ::after, ::before {
